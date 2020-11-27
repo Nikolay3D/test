@@ -1,0 +1,30 @@
+body {
+    /*font-family: sans-serif;*/
+    color: white;
+    background-color: #6699ff;
+    /*padding-top: 50px;*/
+}
+
+.center {
+    padding-top: 50px;
+    margin:0 auto;
+}
+
+.myform{
+    width: 280px;
+}
+
+.myfinal{
+    width: 500px;
+}
+
+/*@media (min-width: 1200px) {*/
+/*    .container{*/
+/*        padding-top: 50px;*/
+/*        max-width: 250px;*/
+/*        margin: 0 auto;*/
+/*        max-height: 100%;*/
+/*    }*/
+/*}*/
+
+
